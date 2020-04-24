@@ -1,4 +1,6 @@
 # 依赖
 /node_modules
 
+# 打包后文件
+/dist
 */dist
